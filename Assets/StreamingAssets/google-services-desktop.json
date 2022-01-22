@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538194617566",
+    "firebase_url": "https://rock-caesar-paper-default-rtdb.firebaseio.com",
+    "project_id": "rock-caesar-paper",
+    "storage_bucket": "rock-caesar-paper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538194617566:android:6925b15f7d284f3d3e0e4f",
+        "android_client_info": {
+          "package_name": "com.mcast.rcp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538194617566-ohm9rff1mt0dbo1sgeb17cqajbg42pkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLaOXZXuaX9zgrIcX9wz9S3Ztbn8QVuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538194617566-ohm9rff1mt0dbo1sgeb17cqajbg42pkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

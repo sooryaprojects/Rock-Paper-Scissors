@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://rock-caesar-paper-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">538194617566</string>
+  <string name="google_storage_bucket" translatable="false">rock-caesar-paper.appspot.com</string>
+  <string name="project_id" translatable="false">rock-caesar-paper</string>
+  <string name="google_api_key" translatable="false">AIzaSyDeLaOXZXuaX9zgrIcX9wz9S3Ztbn8QVuA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDeLaOXZXuaX9zgrIcX9wz9S3Ztbn8QVuA</string>
+  <string name="google_app_id" translatable="false">1:538194617566:android:6925b15f7d284f3d3e0e4f</string>
+  <string name="default_web_client_id" translatable="false">538194617566-ohm9rff1mt0dbo1sgeb17cqajbg42pkk.apps.googleusercontent.com</string>
+</resources>
